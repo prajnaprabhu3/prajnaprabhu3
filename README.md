@@ -14,7 +14,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 <br>
 <br>
-<img align="left" src="https://github.com/Prajnaprabhu3/Prajnaprabhu3/blob/main/github.gif?raw=true" height="250px"  width="250px" />
+<!-- <img align="left" src="https://github.com/Prajnaprabhu3/Prajnaprabhu3/blob/main/github.gif?raw=true" height="250px"  width="250px" /> -->
 <br>
 <br>
 <br>
@@ -30,18 +30,18 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 <h3 align="center">Web Developer and Data Science Enthusiast</h3>
 <br>
 
-<!-- 
+
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Student at **NMAMIT.** -->
+- 🔭 I’m Data Science Undergrad at **Manipal Institute of Technology.**
 
 
  
-- 🌱 I’m currently learning to become **Full stack Web Developer.**
+- 🌱 I’m currently learning **Redux, backend, ML**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<!-- - 👯 I’m looking to collaborate on **** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://karthikacharya.in)**
+- 👨‍💻 All of my projects are available at **(https://Prajnaprabhu3.com)**
 
 - 📫 How to reach me **prajnapprabhu3@gmail.com**
 
