@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&hide=stars)
  -->
  
- ![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&theme=gotham=true)
+ ![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&theme=gotham&show_icons=true)
 
 
