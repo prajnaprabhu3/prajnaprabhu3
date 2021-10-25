@@ -1,8 +1,8 @@
-<!-- - 👋 Hi, I’m Prajna
+<!-- -- - 👋 Hi, I’m Prajna
 - 👀 I’m interested in Web development , Data Science
 - 🌱 I’m currently learning java, React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me prajnapprabhu3@gmail.com
+- 📫 How to reach me prajnapprabhu3@gmail.com -->
 
 
 # Prajna
