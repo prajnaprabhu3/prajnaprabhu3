@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&theme=ocean_dark&show_icons=true)
  -->
-![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&theme=ocean_dark&show_icons=true)
+![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&theme=gotham&show_icons=true)
 
 
 
