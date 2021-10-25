@@ -21,7 +21,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 ## 🙋‍ About Me
 
-- 🔭 I’m Data Science Undergrad at **Manipal Institute of Technology.**
+- � I’m Data Science Undergrad at **Manipal Institute of Technology.**
 
 
  
@@ -29,7 +29,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 <!-- - 👯 I’m looking to collaborate on **** -->
 
-- 💻 All of my projects are available at **https://github.com/Prajnaprabhu3**
+<!-- - 💻 All of my projects are available at **https://github.com/Prajnaprabhu3** -->
 
 - 📫 How to reach me **prajnapprabhu3@gmail.com**
 
@@ -39,7 +39,8 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 ## � Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-logo.png"/> </a>
+    <a href="https://www" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
