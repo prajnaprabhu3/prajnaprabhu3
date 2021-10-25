@@ -74,6 +74,8 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
   <br/>
     <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&show_icons=true&count_private=true&theme=gotham&bg_color=0D1117" /></a>
+    <br/> 
+    <br/>
   <a  style="padding-right:5px" align="right" href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
