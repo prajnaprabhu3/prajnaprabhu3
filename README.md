@@ -39,7 +39,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 ## � Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-logo.png"/> </a>
+    <a href="https://www" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
     <a href="https://www" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
