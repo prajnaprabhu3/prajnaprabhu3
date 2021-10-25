@@ -41,7 +41,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 <p align="left"> 
 <!--     <a href="https://www" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-language-.png"/> </a> -->
 <!--   <a href="https://www" target="_blank"> <img src="https://i.ibb.co/6HX0g1P/403-4039227-c-language-logo-png-transparent-png-removebg-preview.png" height="20px" width="20px"/ > </a> -->
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>
+ <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="47" height="47"/> </a>
     <a href="https://www" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -66,7 +66,11 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 
 <br/>
+<br/>
 
+<a href="https://github.com/karthikg09/github-readme-activity-graph"><img alt="Karthik Acharya Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karthikg09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 <!-- <p align="center">
     <a href="https://github.com/Prajnaprabhu3/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prajna streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Prajnaprabhu3&theme=gotham_duo&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -81,9 +85,9 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
     <br/>
 <!--   <a  style="padding-right:5px" align="right" href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a> -->
   <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
- -->
+ 
 <br/>
 <br/>
 
@@ -98,9 +102,9 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 <a href = "https://www.linkedin.com/in/prajna30/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/__prajna30__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <!-- <a href = "link here"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
-
-
 </p>
+
+
 <!-- 
 ## ❤ Views and Followers
 <a href="">
