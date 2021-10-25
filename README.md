@@ -8,7 +8,7 @@
 Prajnaprabhu3/Prajnaprabhu3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
 
 <h1 align="center">Hi 👋, I'm Prajna</h1>
 <h3 align="center">A frontend developer and a Data Science enthusiast from India</h3>
@@ -18,8 +18,19 @@ You can click the Preview link to take a look at your changes.
 - 👯 I’m looking to collaborate on **web development projects**
 
 - 📫 How to reach me **prajnapprabhu3@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
+
+
+  <div id="icons">
+    <a href="link here" class="twitter"><i class="bi bi-envelope-fill"></i></a>
+    <a href="link here" class="github"><i class="bi bi-github"></i></a>
+    <a href="link here" class="instagram"><i class="bi bi-instagram"></i></a>
+    <a href="link here" class="linkedin"><i class="bi bi-linkedin"></i></a>
+    <a href="link here" class="twitters"><i class="bi bi-twitter"></i></a>
+  </div>
+
 <p align="left">
  Twitter:<a href="https://twitter.com/__prajna30__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__prajna30__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prajna30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajna30" height="30" width="40" /></a>
