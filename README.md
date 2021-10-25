@@ -68,7 +68,6 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 <br/>
 <br/>
 
-<a href="https://github.com/karthikg09/github-readme-activity-graph"><img alt="Karthik Acharya Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karthikg09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <!-- <p align="center">
