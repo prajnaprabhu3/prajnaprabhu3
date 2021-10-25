@@ -19,7 +19,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 <br>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍ About Me
 
 - 🔭 I’m Data Science Undergrad at **Manipal Institute of Technology.**
 
@@ -29,14 +29,14 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 <!-- - 👯 I’m looking to collaborate on **** -->
 
-- 👨‍💻 All of my projects are available at **https://github.com/Prajnaprabhu3**
+-💻 All of my projects are available at **https://github.com/Prajnaprabhu3**
 
 - 📫 How to reach me **prajnapprabhu3@gmail.com**
 
 
 <br>
 
-## 🚀 Languages and Tools:
+## � Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
@@ -73,8 +73,8 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&show_icons=true&count_private=true&theme=gotham&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&show_icons=true&count_private=true&theme=gotham&bg_color=0D1117" /></a>
+  <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
