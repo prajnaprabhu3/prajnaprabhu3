@@ -4,14 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prajnapprabhu3@gmail.com
 
-<!---
-Prajnaprabhu3/Prajnaprabhu3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-<!-- ![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&theme=gotham&show_icons=true) -->
-
-
+# Prajna
+I'm Prajna currently persuing Data Science engineering from Manipal Institue of Technology.I really enjoy learning languages and frameworks like React and React Native, and to work with different technology.
 
 ![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&show_icons=true&theme=gotham&count_private=true)
 
