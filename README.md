@@ -41,7 +41,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 <p align="left"> 
 <!--     <a href="https://www" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-language-.png"/> </a> -->
 <!--   <a href="https://www" target="_blank"> <img src="https://i.ibb.co/6HX0g1P/403-4039227-c-language-logo-png-transparent-png-removebg-preview.png" height="20px" width="20px"/ > </a> -->
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+ <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
     <a href="https://www" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -79,7 +79,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
     <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&show_icons=true&count_private=true&theme=gotham&" /></a>
     <br/> 
     <br/>
-  <a  style="padding-right:5px" align="right" href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a>
+<!--   <a  style="padding-right:5px" align="right" href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a> -->
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
