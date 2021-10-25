@@ -30,5 +30,20 @@ You can click the Preview link to take a look at your changes.
  
  ![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&theme=gotham&show_icons=true)
  
+ ### Hi there 👋, My name is Prajna
+#### Front-end Developer and Data Science Enthusiast
+![Front-end Developer and Data Science Enthusiast](https://Prajnaprabhu3.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: / REACT / JS / HTML / CSS/Python/C/C++/XD
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+ 
 
 
