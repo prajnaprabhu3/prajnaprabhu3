@@ -90,7 +90,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 <br/>
 <br/>
 
-<a href="https://github.com/Prajnaprabhu3/github-readme-activity-graph"><img alt="Prajna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prajnaprabhu3&bg_color=0D1117&color=5BCDEC&line=#259076&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Prajnaprabhu3/github-readme-activity-graph"><img alt="Prajna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prajnaprabhu3&bg_color=#0C1014&color=#98D0CD&line=#259076&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
