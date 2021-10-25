@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&theme=blueberry&show_icons=true)
 
-![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&theme=blue-green&show_icons=true)
+![Prajna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&theme=midnight-purple&show_icons=true)
 
 
 
