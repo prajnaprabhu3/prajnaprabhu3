@@ -14,12 +14,6 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 <br>
 <br>
-<!-- <img align="left" src="https://github.com/Prajnaprabhu3/Prajnaprabhu3/blob/main/github.gif?raw=true" height="250px"  width="250px" /> -->
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <br> Prajna</h1>
 <br>
@@ -41,7 +35,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 <!-- - 👯 I’m looking to collaborate on **** -->
 
-- 👨‍💻 All of my projects are available at **(https://Prajnaprabhu3.com)**
+- 👨‍💻 All of my projects are available at **https://github.com/Prajnaprabhu3**
 
 - 📫 How to reach me **prajnapprabhu3@gmail.com**
 
