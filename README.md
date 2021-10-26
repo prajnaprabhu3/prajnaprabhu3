@@ -23,9 +23,9 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 - � I’m a Data Science Undergrad at **Manipal Institute of Technology.**
 
-
+- 🧿 :nazar_amulet: I’m currently working on React
  
-- 🌱 I’m currently learning **Redux, backend, ML**
+-🌱 I’m currently learning **Redux, backend, ML**
 
 <!-- - 👯 I’m looking to collaborate on **** -->
 
