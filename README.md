@@ -102,6 +102,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 <a href = "https://www.instagram.com/__prajna30__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
+<br/>
 
 <!-- 
 ## ❤ Views and Followers
