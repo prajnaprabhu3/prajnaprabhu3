@@ -21,7 +21,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 ## 🙋‍ About Me
 
-- � I’m Data Science Undergrad at **Manipal Institute of Technology.**
+- � I’m a Data Science Undergrad at **Manipal Institute of Technology.**
 
 
  
