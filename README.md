@@ -83,9 +83,9 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
   <br/>
   
   
-  </br>
+<!--   </br> -->
   
-  [![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Prajna&theme=xcode)](https://git.io/kaiwalyakoparkar)
+<!--   [![Prajnas github activity graph](https://activity-graph.herokuapp.com/graph?username=Prajna&theme=xcode)](https://git.io/kaiwalyakoparkar) -->
   
   
   </br>
