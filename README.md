@@ -20,7 +20,8 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) -->
 
-
+ 
+ </br>
 
 ### Libraries & Framework :
 
@@ -39,7 +40,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a> -->
 <!-- <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a> -->
 
-
+</br>
 
 ### Other Tools:
 
