@@ -9,7 +9,7 @@
  
  ## About me
 
-I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institute of Technology](https://manipal.edu/mit.html). A tech enthusiast. I am a web developer  & a Data Science enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institute of Technology](https://manipal.edu/mit.html). A tech enthusiast. I am a web developer  & a Data Science enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 
 
@@ -63,7 +63,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)
-![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
+<!-- ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github) -->
 
 <!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
 <!-- <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a> -->
