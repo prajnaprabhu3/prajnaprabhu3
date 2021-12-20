@@ -100,6 +100,16 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 <a href = "https://www.linkedin.com/in/prajna30/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/__prajna30__"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/__prajna30__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+ 
+ 
+ 
+<a href="https://linkedin.com/in/breno-ha"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:breno.ha@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+
+ 
+ 
+ 
+ 
 </p>
 
 <br/>
@@ -114,5 +124,29 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
+<img align="right" width="350" height="350" src="public/Saly-13.png">
+
+
+ -->
 
 
