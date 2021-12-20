@@ -1,3 +1,12 @@
+ 
+ 
+<h1 align="center">Hi <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)" width="30px">, I'm Prajna</h1>
+
+<h3 align="center">Web Developer and Data Science Enthusiast</h3>
+<br>
+
+ 
+ 
  ## Hi, I am Prajna! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institute of Technology](https://manipal.edu/mit.html). A tech enthusiast. I am a web developer  & a Data Science enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
