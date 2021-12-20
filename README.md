@@ -12,14 +12,14 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
  -->
 
 
-
+<!-- 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prajna</h1>
 
 <h3 align="center">Web Developer and Data Science Enthusiast</h3>
 <br>
+ -->
 
-
-## 🙋‍ About Me
+<!-- ## 🙋‍ About Me
 
 - � I’m a Data Science Undergrad at **Manipal Institute of Technology.**
 
@@ -31,9 +31,9 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 <!-- - 💻 All of my projects are available at **https://github.com/Prajnaprabhu3** -->
 
-- 📫 How to reach me **prajnapprabhu3@gmail.com**
+- 📫 How to reach me **prajnapprabhu3@gmail.com** -->
 
-
+<!-- 
 <br>
 
 ## � Languages and Tools:
@@ -75,14 +75,14 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
     </a>
 </p> -->
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&show_icons=true&count_private=true&theme=gotham&" /></a>
     <br/> 
     <br/>
   <a  style="padding-right:5px" align="right" href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a>
-  <br/>
+  <br/> -->
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
  
@@ -93,7 +93,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 <br/>
 
-
+<!-- 
 ## Connect with me:
 <p align="left">
 
@@ -106,13 +106,13 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 <a href="https://linkedin.com/in/breno-ha"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:breno.ha@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
+  -->
  
  
  
- 
-</p>
+<!-- </p> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- 
 ## ❤ Views and Followers
@@ -139,7 +139,7 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 
 
-
+ -->
 
 
 <!-- 
@@ -148,5 +148,40 @@ I'm Prajna currently persuing Data Science engineering from Manipal Institue of 
 
 
  -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&show_icons=true&count_private=true&theme=gotham&" /></a>
+    <br/> 
+    <br/>
+  <a  style="padding-right:5px" align="right" href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a>
+  <br/>
 
 
