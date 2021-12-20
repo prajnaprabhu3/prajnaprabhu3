@@ -90,6 +90,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
   
   </br>
   
+  ## Connect with me:
   
   [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/prajna30/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://www.instagram.com/__prajna30__/)
