@@ -26,6 +26,9 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 <!-- <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a> -->
 <!-- ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis) -->
@@ -35,8 +38,6 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) -->
 <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a> -->
 <!-- <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a> -->
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 
 
 
@@ -87,8 +88,9 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
   
   [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/prajna30/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://www.instagram.com/__prajna30__/)
-<!-- [![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/) -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajnapprabhu3@gmail.com)](mailto:prajnapprabhu3@gmail.com)
+<!-- [![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/) -->
+
 <!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kaiwalyakoparkar.github.io/) -->
 
 
