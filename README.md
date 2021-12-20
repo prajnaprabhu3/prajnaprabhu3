@@ -21,7 +21,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) -->
 
  
- </br>
+
 
 ### Libraries & Framework :
 
@@ -40,7 +40,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a> -->
 <!-- <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a> -->
 
-</br>
+
 
 ### Other Tools:
 
@@ -52,13 +52,13 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=git)
+![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 
 <!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
 <!-- <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a> -->
 
 
-
+</br>
 
 <!-- ## 💰 Support
 <p>
@@ -83,8 +83,12 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
   <br/>
   
   
+  </br>
+  
   [![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Prajna&theme=xcode)](https://git.io/kaiwalyakoparkar)
   
+  
+  </br>
   
   
   [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/prajna30/)
