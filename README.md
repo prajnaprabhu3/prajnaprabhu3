@@ -63,7 +63,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)
-<!-- ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github) -->
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 <!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
 <!-- <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a> -->
