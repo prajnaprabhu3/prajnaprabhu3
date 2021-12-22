@@ -92,6 +92,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
     <br/> 
     <br/>
   <a  style="padding-right:5px" align="right" href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prajnaprabhu3&theme=gotham" alt="Prajna" /></p>
 
   <br/>
   
