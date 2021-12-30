@@ -40,6 +40,8 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Chakra](https://img.shields.io/badge/-chakra-black?style=flat-square&logo=chakraui)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 
 
 
