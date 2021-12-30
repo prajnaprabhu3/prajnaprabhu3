@@ -38,7 +38,9 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-<a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass%20-%23150458.svg?logo=Sass&logoColor=white"></a>
+<!-- <a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass%20-%23150458.svg?logo=Sass&logoColor=white"></a> -->
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+
 
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 <!-- <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a> -->
@@ -65,7 +67,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23150458.svg?logo=Bash&logoColor=white"></a>
+
 <!-- ![Adobe XD](https://img.shields.io/badge/-Adobe-XD-black?style=flat-square&logo=adobexd) -->
 
 <!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
