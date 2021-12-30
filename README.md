@@ -34,12 +34,13 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 
 ### Libraries & Framework :
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
-![Chakra](https://img.shields.io/badge/-chakra-black?style=flat-square&logo=chakraui)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white)
+
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) -->
 
 
@@ -67,13 +68,16 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) -->
 <!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=fla=at-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)
+
+
 
 
 <!-- ![Adobe XD](https://img.shields.io/badge/-Adobe-XD-black?style=flat-square&logo=adobexd) -->
