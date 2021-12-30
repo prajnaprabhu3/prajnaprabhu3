@@ -69,13 +69,13 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)&nbsp;
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)&nbsp;
 
 
 
