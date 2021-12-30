@@ -65,6 +65,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+<a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23150458.svg?logo=Bash&logoColor=white"></a>
 <!-- ![Adobe XD](https://img.shields.io/badge/-Adobe-XD-black?style=flat-square&logo=adobexd) -->
 
 <!-- <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> -->
