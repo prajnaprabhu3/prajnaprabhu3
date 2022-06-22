@@ -1,6 +1,6 @@
  
  
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">,I'm Prajna</h1>
+<h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">,I'm Prajna</h1>
 
 <h3 align="center">Web Developer and Data Science Enthusiast</h3>
 <br>
