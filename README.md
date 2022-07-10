@@ -1,4 +1,4 @@
- 
+
  
 <h1 align="center">Hi&nbsp;<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">,I'm Prajna</h1>
 
@@ -101,19 +101,6 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
  
  
 
- 
- ## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&show_icons=true&count_private=true&theme=gotham&" /></a>
-    <br/> 
-    <br/>
-    <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prajnaprabhu3&theme=gotham&bg_color=0D1117" alt="Prajna" /></p>
-  <br/>
-   
-  <a  style="padding-right:5px" align="right" href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a>
-  
-  <br/>
   
   
 <!--   </br> -->
@@ -121,17 +108,30 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <!--   [![Prajnas github activity graph](https://activity-graph.herokuapp.com/graph?username=Prajna&theme=xcode)](https://git.io/kaiwalyakoparkar) -->
   
   
-  </br>
   
-  ## Connect with me:
   
-  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/prajna30/)&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://www.instagram.com/__prajna30__/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajnapprabhu3@gmail.com)](mailto:prajnapprabhu3@gmail.com)&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-Blue?style=flat-square&logo=twitter&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://twitter.com/__prajna30__)&nbsp;
 
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/) -->
 
 <!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kaiwalyakoparkar.github.io/) -->
 
 
+
+
+
+### My Github Stats 📊
+
+[![](https://raw.githubusercontent.com/Prajnaprabhu3/Prajnaprabhu3/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Prajnaprabhu3/Prajnaprabhu3/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Prajnaprabhu3/Prajnaprabhu3/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Prajnaprabhu3/Prajnaprabhu3/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Prajnaprabhu3/Prajnaprabhu3/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
+
+
+
+  ## Connect with me:
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/prajna30/)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://www.instagram.com/__prajna30__/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajnapprabhu3@gmail.com)](mailto:prajnapprabhu3@gmail.com)&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-Blue?style=flat-square&logo=twitter&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://twitter.com/__prajna30__)&nbsp;
