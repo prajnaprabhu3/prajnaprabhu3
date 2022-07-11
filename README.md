@@ -118,13 +118,19 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 
 
 
+ ## 📊 My Github Stats
 
-### My Github Stats 📊
-
-[![](https://raw.githubusercontent.com/Prajnaprabhu3/Prajnaprabhu3/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Prajnaprabhu3/Prajnaprabhu3/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Prajnaprabhu3/Prajnaprabhu3/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Prajnaprabhu3/Prajnaprabhu3/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Prajnaprabhu3/Prajnaprabhu3/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+  <br/>
+    <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&show_icons=true&count_private=true&theme=gotham&" /></a>
+    <br/> 
+    <br/>
+    <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prajnaprabhu3&theme=gotham&bg_color=0D1117" alt="Prajna" /></p>
+  <br/>
+   
+  <a  style="padding-right:5px" align="right" href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a>
+  
+  <br/>
+  
 ---
 
 
