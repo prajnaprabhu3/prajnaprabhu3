@@ -119,8 +119,15 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 
 
  ## 📊 My Github Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajnaprabhu3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prajnaprabhu3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prajnaprabhu3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prajnaprabhu3&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajnaprabhu3&theme=github_dark&utcOffset=8)
 
-  <br/>
+
+<!-- 
+ <br/>
     <a href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prajnaprabhu3&show_icons=true&count_private=true&theme=gotham&" /></a>
     <br/> 
     <br/>
@@ -129,10 +136,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
    
   <a  style="padding-right:5px" align="right" href="https://github.com/Prajnaprabhu3/github-readme-stats"><img alt="Prajna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajnaprabhu3&langs_count=8&count_private=true&layout=compact&theme=gotham&bg_color=0D1117" /></a>
   
-  <br/>
-  
----
-
+  <br/> -->
 
 
   ## Connect with me:
