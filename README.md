@@ -18,6 +18,8 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 
 
 ## ⚡ Technologies
+![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,js,ts,tailwindcss,react,nextjs,nodejs,expressjs,mongodb,git,github,netlify,vercel)
+
 
 ### Language :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)&nbsp;
