@@ -17,30 +17,31 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 
 
 
-## ⚡ Technologies
-![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,js,ts,tailwindcss,react,nextjs,nodejs,expressjs,mongodb,git,github,netlify,vercel)
+## ⚡ Technologies & tools 
+![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,js,ts,tailwindcss,react,nextjs,nodejs,expressjs,mongodb,git,figma)
 
 
-### Language :
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)&nbsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)&nbsp;
+<!-- ### Language : -->
+<!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)&nbsp; -->
+<!-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)&nbsp; -->
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp; -->
+<!-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)&nbsp; -->
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)&nbsp; -->
+<!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)&nbsp; -->
+
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) -->
 
  
 
 
-### Libraries & Framework :
+<!-- ### Libraries & Framework : -->
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)&nbsp;
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white)&nbsp;
+<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)&nbsp; -->
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)&nbsp; -->
+<!-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)&nbsp; -->
+<!-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)&nbsp; -->
+<!-- ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white)&nbsp; -->
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)&nbsp; -->
 
 
@@ -62,7 +63,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 
 
 
-### Other Tools:
+<!-- ### Other Tools: -->
 
 <!-- <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> -->
 <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> -->
@@ -72,13 +73,13 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 <!-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)&nbsp;
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)&nbsp;
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)&nbsp; -->
+<!-- ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)&nbsp; -->
+<!-- ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp; -->
+<!-- ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)&nbsp; -->
+<!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)&nbsp; -->
+<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)&nbsp; -->
+<!-- ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=bash)&nbsp; -->
 
 
 
