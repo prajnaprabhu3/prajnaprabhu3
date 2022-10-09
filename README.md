@@ -15,7 +15,7 @@ I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institut
 
 
 
-
+<br>
 
 ## ⚡ Technologies & tools 
 ![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,js,ts,tailwindcss,react,nextjs,nodejs,expressjs,mongodb,git,figma)
