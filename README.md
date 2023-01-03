@@ -9,7 +9,9 @@
  
  ## About me
 
-I am Prajna , currently pursuing my Btech in Data Science from [Manipal Institute of Technology](https://manipal.edu/mit.html). A tech enthusiast. I am a web developer  & a Data Science enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. 
+I'm Prajna , currently pursuing my Btech in Data Science from [MIT Manipal](https://manipal.edu/mit.html). A fullstack developer who loves building minimal, modern  and  beautiful websites, mobile apps, and user interfaces. I am always open to collaborating on projects and innovative/disruptive ideas. 
+
+Currently exploring ios development and cloud native technology ☕️
 
 
 
